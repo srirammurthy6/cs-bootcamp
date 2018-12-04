@@ -29,4 +29,3 @@ operation:
     
   results:
     - SUCCESS
-    - FAILURE
